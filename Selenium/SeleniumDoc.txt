@@ -1,0 +1,4 @@
+There are multiple ways to find locators
+a. CSS
+b. XPath
+c. Jquery
