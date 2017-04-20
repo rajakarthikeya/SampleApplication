@@ -4,3 +4,4 @@ b. XPath
 c. Jquery
 4. ID
 5. Name
+6. TagName
